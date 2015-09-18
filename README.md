@@ -1,2 +1,2 @@
-# exposicion
-3ra capa 
+# presentacion
+capa 3 de modelo osi
